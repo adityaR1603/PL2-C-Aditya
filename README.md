@@ -1,4 +1,4 @@
-# PL2-C-Aditya
+# PL2-CPP-Aditya
 # Course Details
 Course Name: Programming Language - 2: C++ Programming\
 Professor: Bajirao Salunke
